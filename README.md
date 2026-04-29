@@ -1,7 +1,7 @@
 # 💱 Currency Converter Web App
 
 A simple and interactive **Currency Converter** built using **HTML, CSS, and JavaScript**.
-It allows users to convert currencies in real-time with dynamic flag updates 🌍
+It allows users to convert currencies in real-time with dynamic flag updates.
 
 ---
 
