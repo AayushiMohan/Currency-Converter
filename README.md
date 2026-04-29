@@ -18,7 +18,7 @@ It allows users to convert currencies in real-time with dynamic flag updates ðŸŒ
 
 ## ðŸ“¸ Preview
 
-![Currency Converter](preview.png)
+![Peview](https://github.com/AayushiMohan/Currency-Converter/blob/main/CURRENCY%20CONVERTER/preview.png)
 
 ---
 
