@@ -18,7 +18,9 @@ It allows users to convert currencies in real-time with dynamic flag updates �
 
 ## 📸 Preview
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Currency+Converter+Preview)
+## 📸 Preview
+
+![Currency Converter](images/preview.png)
 
 ---
 
