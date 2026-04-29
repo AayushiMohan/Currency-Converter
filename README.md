@@ -5,24 +5,23 @@ It allows users to convert currencies in real-time with dynamic flag updates �
 
 ---
 
-## ✨ Features
+## Features
 
-* 🌐 Convert between multiple currencies
-* 🇺🇸 Dynamic country flags update on selection
-* ⚡ Real-time exchange rates using API
-* 💻 Clean and responsive UI
-* 🔄 Default conversion (USD → INR)
-* 🛡️ Error handling for invalid data
+*  Convert between multiple currencies
+*  Real-time exchange rates using API
+*  Clean and responsive UI
+*  Default conversion (USD → INR)
+*  Error handling for invalid data
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Peview](https://github.com/AayushiMohan/Currency-Converter/blob/main/CURRENCY%20CONVERTER/preview.png)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **HTML5** – Structure
 * **CSS3** – Styling
@@ -32,7 +31,7 @@ It allows users to convert currencies in real-time with dynamic flag updates �
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 * User enters an amount
 * Selects "From" and "To" currencies
@@ -41,10 +40,10 @@ It allows users to convert currencies in real-time with dynamic flag updates �
 
 ---
 
-## ⚠️ Common Issues
+## Common Issues
 
-* ❌ API not working → Check internet connection
-* ❌ Flags not loading → Some currencies don’t have direct country mapping
-* ❌ Conversion error → Ensure valid currency selected
-* ❌ HTML Linking - check if other files are linked with HTML or not
+*  API not working → Check internet connection
+*  Flags not loading → Some currencies don’t have direct country mapping
+*  Conversion error → Ensure valid currency selected
+*  HTML Linking - check if other files are linked with HTML or not
 ---
