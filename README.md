@@ -20,7 +20,7 @@ It allows users to convert currencies in real-time with dynamic flag updates ğŸŒ
 
 ## ğŸ“¸ Preview
 
-![Currency Converter](images/preview.png)
+![Currency Converter](images/Preview.png)
 
 ---
 
