@@ -18,8 +18,6 @@ It allows users to convert currencies in real-time with dynamic flag updates �
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ![Currency Converter](images/Preview.png)
 
 ---
